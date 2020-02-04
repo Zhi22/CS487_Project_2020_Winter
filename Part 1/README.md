@@ -8,7 +8,7 @@ So far, we decide to mainly work on Google Cloud Platform, and also take postgre
 We choose GCP because it's a commonly used platform with many covenient tools, and we haven't used it before, so it could be a good oppotunity to learn about it during this course, and the reason that we choose postgresql is we have some expereience using it during the previous course.
 
 ## Load data into system
-* The design of schema is based on the "scalable" version of schema in the Wisconsin Benchmark paper.
+* The generated date is based on the "scalable" version of relation in the Wisconsin Benchmark paper.
 ![](img/wisconsin.PNG)
 
 * Load ONEKTUP into Google Cloud Platform
