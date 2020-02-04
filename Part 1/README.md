@@ -23,4 +23,5 @@ We choose GCP because it's a commonly used platform with many covenient tools, a
 ## Issues encountered
 We've encountered issue that the column name can't be loaded by GCP when load the data into it, but fixed by adding a new line contains the column name at the beginning of the csv file.
 
-references: http://jimgray.azurewebsites.net/benchmarkhandbook/chapter4.pdf
+
+## references: http://jimgray.azurewebsites.net/benchmarkhandbook/chapter4.pdf
