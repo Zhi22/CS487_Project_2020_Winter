@@ -5,18 +5,17 @@ by Zhi and Jianqiang Hao
 ## DBMS selection
 
 ## Load data
-The design of schema is based on the "scalable" version of schema in the Wisconsin Benchmark paper.
-
+* The design of schema is based on the "scalable" version of schema in the Wisconsin Benchmark paper.
 ![](img/wisconsin.PNG)
 
 * Load ONEKTUP into Google Cloud Platform
-![] (img/onek_gcp.png)
+![](img/onek_gcp.PNG)
 
 * Load TENKTUP1 into Google Cloud Platform
-![] (img/tenk1_gcp.png)
+![](img/tenk1_gcp.PNG)
 
 * Load TENKTUP2 into Google Cloud Platform
-![] (img/tenk2_gcp.png)
+![](img/tenk2_gcp.PNG)
 
 
 ## Lessons learned or issues encountered
