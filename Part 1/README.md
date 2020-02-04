@@ -4,7 +4,7 @@ by Zhi and Jianqiang Hao
 
 
 ## DBMS selection
-So far, we decide to mainly work on Google Cloud Platform, and also take postgresql as comparison.
+So far, we decide to work mainly on Google Cloud Platform, and also take postgresql as comparison.
 We choose GCP because it's a commonly used platform with many covenient tools, and we haven't used it before, so it could be a good oppotunity to learn about it during this course, and the reason that we choose postgresql is we have some expereience using it during the previous course.
 
 ## Load data into system
