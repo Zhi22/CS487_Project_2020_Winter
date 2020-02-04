@@ -10,7 +10,7 @@ The design of schema is based on the "scalable" version of schema in the Wiscons
 ![](img/wisconsin.png)
 
 * Load ONEKTUP into Google Cloud Platform
-![] (img/onek_gcp.png)
+![] (img/onek_gcp.PNG)
 
 * Load TENKTUP1 into Google Cloud Platform
 ![] (img/tenk1_gcp.png)
