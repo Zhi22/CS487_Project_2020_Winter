@@ -20,6 +20,15 @@ We choose GCP because it's a commonly used platform with many covenient tools, a
 * Load TENKTUP2 into Google Cloud Platform
 ![](img/tenk2_gcp.PNG)
 
+* Load ONEKTUP into Google Cloud Platform
+![](img/ONEKTUP_sample.PNG)
+
+* Load TENKTUP1 into Google Cloud Platform
+![](img/TENKTUP1_sample.PNG)
+
+* Load TENKTUP2 into Google Cloud Platform
+![](img/TENKTUP2_sample.PNG)
+
 ## Issues encountered
 We've encountered issue that the column name can't be loaded by GCP when load the data into it, but fixed by adding a new line contains the column name at the beginning of the csv file.
 
