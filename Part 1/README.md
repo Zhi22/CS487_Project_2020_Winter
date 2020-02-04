@@ -7,10 +7,10 @@ by Zhi and Jianqiang Hao
 ## Load data
 The design of schema is based on the "scalable" version of schema in the Wisconsin Benchmark paper.
 
-![](img/wisconsin.png)
+![](img/wisconsin.PNG)
 
 * Load ONEKTUP into Google Cloud Platform
-![] (img/onek_gcp.PNG)
+![] (img/onek_gcp.png)
 
 * Load TENKTUP1 into Google Cloud Platform
 ![] (img/tenk1_gcp.png)
