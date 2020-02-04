@@ -26,6 +26,11 @@ def convert(unique):
 
 def generate_relation(MAXTUPLE):
     tuples = []
+    tuples.append('{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}\n'.format(
+        'unique1','unique2','two','four','ten','twenty',
+        'onePercent','tenPercent','twentyPercent','fifty_Percent','unique3',
+        'evenOnePercent','oddOnePercent','stringu1','stringu2','string4'))
+
     following_char = ""
     for _ in range(45):
         following_char += "x"
