@@ -20,13 +20,13 @@ We choose GCP because it's a commonly used platform with many covenient tools, a
 * Load TENKTUP2 into Google Cloud Platform
 ![](img/tenk2_gcp.PNG)
 
-* Load ONEKTUP into Google Cloud Platform
+* Load ONEKTUP into PostgreSQL Platform
 ![](img/ONEKTUP_sample.PNG)
 
-* Load TENKTUP1 into Google Cloud Platform
+* Load TENKTUP1 into PostgreSQL Platform
 ![](img/TENKTUP1_sample.PNG)
 
-* Load TENKTUP2 into Google Cloud Platform
+* Load TENKTUP2 into PostgreSQL Platform
 ![](img/TENKTUP2_sample.PNG)
 
 ## Issues encountered
